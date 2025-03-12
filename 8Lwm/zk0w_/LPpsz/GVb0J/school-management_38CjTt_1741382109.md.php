@@ -90,7 +90,6 @@ if ( empty( $_REQUEST['bottomfunc'] ) ) : ?>
 			onclick="this.href = 'Bottom.php?bottomfunc=print&' + window.location.search.substring(1);">
 			<img src="<?php echo $btn_path; ?>print.png" alt="">
 			<span><?php echo _( 'Print' ); ?></span>
-		</a>
 		<a href="#" onclick="toggleHelp();return false;" title="<?php echo AttrEscape( _( 'Help' ) ); ?>" class="BottomButton">
 			<img src="<?php echo $btn_path; ?>help.png" alt="">
 			<span><?php echo _( 'Help' ); ?></span>
