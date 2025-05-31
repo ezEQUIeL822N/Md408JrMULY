@@ -2,7 +2,6 @@
   BasedOnStyle: Google
   AccessModifierOffset: '-2'
   AlignTrailingComments: 'true'
-  AllowAllParametersOfDeclarationOnNextLine: 'false'
   AlwaysBreakTemplateDeclarations: 'No'
   BreakBeforeBraces: Attach
   ColumnLimit: '100'
