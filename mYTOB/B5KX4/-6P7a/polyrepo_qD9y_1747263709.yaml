@@ -1,8 +1,0 @@
----
-endOfLine: lf
-overrides:
-  - files:
-      - '*.yaml'
-      - '*.yml'
-    options:
-      singleQuote: true
